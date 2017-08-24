@@ -1,4 +1,2 @@
-# hello-world
-Testing
-
-just testing
+# hello-world and hello people!
+Testing further
